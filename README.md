@@ -45,3 +45,6 @@ Use Django’s built in testing tools
 - create additional apps in project
 - pass additional info along to views and render it
 - extend additional blocks in templates
+
+
+URL for pull request : https://github.com/Eman-Alshaikh/django-snacks/pull/2 
