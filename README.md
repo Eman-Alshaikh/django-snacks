@@ -14,7 +14,7 @@ We’ll get a feel for the “Django Way” and see the dramatic performance gai
 
 ## Feature Tasks and Requirements
 Create web site in Django with 2 pages
-- home page
+- home page.
 - about page
 - create views/urls/templates as needed for home and about pages
 - use ancestor template to contain navigation elements
